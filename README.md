@@ -18,15 +18,15 @@ There is no score limit and the level increases every 5 score points.
 
 - Right player uses **Up and Down Arrow Keys** to move.
 
-- Left player uses W and S to move.
+- Left player uses **W** and **S** keys to move.
 
 - To pause the game press **ENTER** or __Spacebar__.
 
-- To quit the game press q or Esc.
+- To quit the game press **q** or **Esc**.
 
-- To mute the sounds press m.
+- To mute the sounds press **m**.
 
-- To restart the game press r.
+- To restart the game press **r**.
 
 
 ## Images from gameplay
