@@ -5,7 +5,7 @@ A simple Ping-Pong game to pass around time.
 ## Installation
 
 Simply download the files in a folder and run the ping-pong.py file. The file is compatible with
-Python 2.7.x+ and Python 3.6.x+ and with Windows and Linux systems. To run the files use the next
+Python 2.7.x+ and Python 3.6.x+ and with Windows and Linux systems. To run the file use the next
 command:
 
 ```
