@@ -16,7 +16,7 @@ python ping-pong.py
 
 There is no score limit and the level increases every 5 score points.
 
-- Right player uses Up and Down **Arrow Keys** to move.
+- Right player uses **Up and Down Arrow Keys** to move.
 
 - Left player uses W and S to move.
 
