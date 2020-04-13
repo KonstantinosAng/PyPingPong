@@ -22,11 +22,11 @@ There is no score limit and the level increases every 5 score points.
 
 - To pause the game press **ENTER** or __Spacebar__.
 
-- To quit the game press **q** or **Esc**.
+- To quit the game press **Q** or **Esc**.
 
-- To mute the sounds press **m**.
+- To mute the sounds press **M**.
 
-- To restart the game press **r**.
+- To restart the game press **R**.
 
 
 ## Images from gameplay
