@@ -33,4 +33,6 @@ There is no score limit and the level increases every 5 score points.
 
 Players name input screen.
 
-(img/image1.png) 
+(img/image_1.png) 
+
+(img/image_2.png)
