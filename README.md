@@ -31,4 +31,6 @@ There is no score limit and the level increases every 5 score points.
 
 ## Images from gameplay
 
+Players name input screen.
+
 (img/image1.png) 
