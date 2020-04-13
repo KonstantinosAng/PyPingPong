@@ -31,6 +31,10 @@ There is no score limit and the level increases every 5 score points.
 
 ## Images from gameplay
 
+<p align="center">   
+<img width="460" height="300" src="img/image_1.png"> 
+</p>
+
 ![PlayerInput](img/image_1.png) 
 
 ![Gameplay](img/image_2.png)
